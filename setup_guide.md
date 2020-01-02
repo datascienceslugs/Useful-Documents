@@ -42,6 +42,6 @@ Download the official installer [here](https://www.anaconda.com/distribution/#do
 Be sure to select the **Python 3.7 version**. You will be able to install Python/R libraries as needed through Anaconda. 
 The default installation should come with all the libraries you need to get started.
 
-#### Anaconda ALTERNATIVE for peopel who do not like installing stuff
+#### Anaconda ALTERNATIVE for people who do not like installing stuff
 Google CoLab runs in the browser and comes with all the libraries you need to do basic data science in Pyhton, so you can use this
 to get started if you prefer
