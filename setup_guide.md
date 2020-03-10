@@ -41,7 +41,7 @@ Links to join  live collaborations will be sent out through Slack.
 Download the official installer [here](https://www.anaconda.com/distribution/#download-section). 
 Be sure to select the **Python 3.7 version**. You will be able to install Python/R libraries as needed through Anaconda. 
 The default installation should come with all the libraries you need to get started.
-If you'd rather use command line only, install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
+If you'd rather use command line only, install [miniconda](https://docs.conda.io/en/latest/miniconda.html). This is a minimal installation of Anaconda without GUI software.
 
 #### Anaconda ALTERNATIVE for people who do not like installing stuff
 Google CoLab runs in the browser and comes with all the libraries you need to do basic data science in Pyhton, so you can use this
