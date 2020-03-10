@@ -13,7 +13,7 @@ Most club communications will be through [Slack](https://slack.com/).
 #### Github
 
 Go to [GitHub](https://github.com/) and create a user account.
-Message Ryan Darling or Anders Poirel on Slack so that you can be added as a collaborator on GitHub. This is will be necessary for 
+Message Julan Lehrer or Anders Poirel on Slack so that you can be added as a collaborator on GitHub. This is will be necessary for 
 pushing your contributions to team repositories and joining live coding sessions.
 
 #### Git
@@ -41,6 +41,7 @@ Links to join  live collaborations will be sent out through Slack.
 Download the official installer [here](https://www.anaconda.com/distribution/#download-section). 
 Be sure to select the **Python 3.7 version**. You will be able to install Python/R libraries as needed through Anaconda. 
 The default installation should come with all the libraries you need to get started.
+If you'd rather use command line only, install [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 
 #### Anaconda ALTERNATIVE for people who do not like installing stuff
 Google CoLab runs in the browser and comes with all the libraries you need to do basic data science in Pyhton, so you can use this
