@@ -14,6 +14,7 @@ In general, you should aim to follow the [PEP-8 guidelines](https://www.python.o
 
 ## Project Structure
 
+Keeping a consistent, readeable project structure helps others understand your code and reproduce your results more easily.
 Try to respect the [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) project structure. These are meant as guidelines - it can be adapted  but in general:
 - data, notebooks and scripts should be in seperate folders (eg scripts in `src`)
 - raw data should be considered immutable (that is, never overwrite the original data)
@@ -21,4 +22,3 @@ Try to respect the [Cookie Cutter Data Science](https://drivendata.github.io/coo
 - notebooks aren't easily reproducible or versionable. As such they should be single-author and not contain code that is reused or used to generate the final model. In general, use them for exploration / testing 
 - notebook names should be informative: they should contains author name, version and purpose
 
-## Git usage
